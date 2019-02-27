@@ -1,13 +1,6 @@
 # TeleCube
-- A game made by Ferdi Alleman
+- A prototype made by Ferdi Alleman
 
-This game is about navigating through the level using your teleport powers.
-The UI isn't perfect and being worked on right now.
-And I'm still patching out some of the little bugs here and there.
-
-The platforms I am planning to bring this game to will be:
-- Android
-- PC
-- iOS
-- Mac
-- Linux
+This prototype is about navigating through the level using your teleport powers.
+I am in the process of reworking this project from scratch. Being a spare-time project
+it is on/off for the time.
